@@ -26,6 +26,7 @@
  * THE SOFTWARE.
  */
 
+#include "soc/uart_periph.h#
 
 #include "py/runtime.h"
 #include "py/mphal.h"
